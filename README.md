@@ -1,41 +1,42 @@
 markdown
 # Bryant Esquea | Freelance Technical Writer
-**I turn complex technical concepts into clear, actionable documentation and strategic whitepapers.**
+**Strategic Documentation & High-Authority Whitepapers for the 2026 SaaS Ecosystem.**
 
 ---
 
-## 🚀 About Me
-I specialize in **SaaS Documentation** and **Technical Content Strategy** for high-growth startups. My approach combines "Docs-as-Code" (Markdown/Git) with a deep focus on user experience and business ROI.
+## 🚀 The Value I Provide
+I help tech companies reduce churn and close enterprise deals by translating complex systems into clear, persuasive content. I specialize in **Docs-as-Code** (Markdown/Git) and **Strategic Research**.
 
 - 📫 **Contact:** [besquea12@gmail.com/https://www.linkedin.com/in/bryant-esquea-8a687939b/]
-- 🛠️ **Tools:** Markdown, Git/GitHub, Notion, Slack, Trello, UX Microcopy.
-- 🎯 **Availability:** Open to freelance projects and content audits.
+- 🛠️ **Stack:** Markdown, GitHub, Notion, Trello, UX Writing.
+- 🎯 **Niches:** AI Governance, Cybersecurity, SaaS Efficiency.
 
 ---
 
-## 📂 Portfolio Samples
+## 📂 Featured Portfolio
 
-### 📑 Strategic Whitepapers (B2B Authority)
-*High-level reports designed for executives and decision-makers.*
-*   **[The Hidden Costs of Software Bloat](whitepaper-outline.md)** – A data-driven look at SaaS waste and governance.
-*   **[Navigating the Shadow AI Crisis](ai-governance-whitepaper.md)** – A framework for securing enterprise AI in 2026.
+### 📑 Authority Whitepapers (Lead Generation)
+*Research-backed reports designed to establish market leadership and drive enterprise sales.*
+*   **[The Death of the Perimeter] (cybersecurity-identity-whitepaper.md)** – A deep dive into Identity-First Security and AI-driven deepfake defense.
+*   **[Navigating the Shadow AI Crisis] (ai-governance-whitepaper.md)** – Strategic frameworks for enterprise AI compliance (EU AI Act ready).
+*   **[The Hidden Costs of Software Bloat] (whitepaper-outline.md)** – Data-driven analysis of "SaaS Sprawl" and license waste.
 
-### 📖 User Documentation (Product Adoption)
-*Clear, step-by-step guides to help users succeed with your software.*
-*   **[Creating a Team Wiki in Notion](notion-wiki-guide.md)** – Structural documentation and database management.
-*   **[Slack Workflow Automation](slack-workflow-guide.md)** – Helping teams scale through internal integrations.
-*   **[Trello Butler Automation](trello-automation-guide.md)** – Enhancing productivity via rule-based logic.
+### 📖 Product Documentation (User Success)
+*Clear, structured guides that reduce support tickets and accelerate onboarding.*
+*   **[Slack Workflow Automation] (slack-workflow-guide.md)** – Advanced internal automation and integration.
+*   **[Notion Team Wiki Architecture] (notion-wiki-guide.md)** – Scaling knowledge management for distributed teams.
+*   **[Trello Butler Logic] (trello-automation-guide.md)** – Streamlining project movement via automated rules.
 
-### ✍️ UX Writing (User Experience)
-*Microcopy and interface text designed to reduce friction.*
-*   **[Login Error States Redesign](ux-writing-sample.md)** – Transforming system errors into helpful user guidance.
-
----
-
-## 🛠️ Why Hire Me?
-1. **Markdown Mastery:** I write in the language your developers already use, making it easy to deploy my work to your site.
-2. **Business-Minded:** I don't just write "how-to" guides; I write content that reduces support tickets and increases product stickiness.
-3. **Research-Driven:** My whitepapers are backed by 2026 market data, establishing your brand as an industry authority.
+### ✍️ UX Writing (Product Experience)
+*Microcopy designed to improve user retention and clarify complex interfaces.*
+*   **[Login Error State Redesign] (ux-writing-sample.md)** – Turning system friction into helpful human guidance.
 
 ---
-*Built with ❤️ and Markdown.*
+
+## 🛠️ Specialized Skills
+- **Markdown & Git Workflows:** Content that integrates directly into your developer pipeline.
+- **2026 Market Research:** All strategic content is cited with the latest data from Gartner, IBM, and Forrester.
+- **Human-Centric UX:** Writing that speaks to users, not just at them.
+
+---
+*Ready to scale your documentation? Let's talk.
