@@ -17,19 +17,19 @@ I help tech companies reduce churn and close enterprise deals by translating com
 
 ### 📑 Authority Whitepapers (Lead Generation)
 *Research-backed reports designed to establish market leadership and drive enterprise sales.*
-*   **[The Death of the Perimeter] (cybersecurity-identity-whitepaper.md)** – A deep dive into Identity-First Security and AI-driven deepfake defense.
-*   **[Navigating the Shadow AI Crisis] (ai-governance-whitepaper.md)** – Strategic frameworks for enterprise AI compliance (EU AI Act ready).
-*   **[The Hidden Costs of Software Bloat] (whitepaper-outline.md)** – Data-driven analysis of "SaaS Sprawl" and license waste.
+*   **[The Death of the Perimeter](cybersecurity-identity-whitepaper.md)** – A deep dive into Identity-First Security and AI-driven deepfake defense.
+*   **[Navigating the Shadow AI Crisis](ai-governance-whitepaper.md)** – Strategic frameworks for enterprise AI compliance (EU AI Act ready).
+*   **[The Hidden Costs of Software Bloat](whitepaper-outline.md)** – Data-driven analysis of "SaaS Sprawl" and license waste.
 
 ### 📖 Product Documentation (User Success)
 *Clear, structured guides that reduce support tickets and accelerate onboarding.*
-*   **[Slack Workflow Automation] (slack-workflow-guide.md)** – Advanced internal automation and integration.
-*   **[Notion Team Wiki Architecture] (notion-wiki-guide.md)** – Scaling knowledge management for distributed teams.
-*   **[Trello Butler Logic] (trello-automation-guide.md)** – Streamlining project movement via automated rules.
+*   **[Slack Workflow Automation](slack-workflow-guide.md)** – Advanced internal automation and integration.
+*   **[Notion Team Wiki Architecture](notion-wiki-guide.md)** – Scaling knowledge management for distributed teams.
+*   **[Trello Butler Logic](trello-automation-guide.md)** – Streamlining project movement via automated rules.
 
 ### ✍️ UX Writing (Product Experience)
 *Microcopy designed to improve user retention and clarify complex interfaces.*
-*   **[Login Error State Redesign] (ux-writing-sample.md)** – Turning system friction into helpful human guidance.
+*   **[Login Error State Redesign](ux-writing-sample.md)** – Turning system friction into helpful human guidance.
 
 ---
 
