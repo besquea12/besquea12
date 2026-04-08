@@ -17,17 +17,17 @@ I help tech companies reduce churn and close enterprise deals by translating com
 
 markdown
 ### 📑 Strategic Whitepapers (B2B Authority)
-*   **[The Death of the Perimeter](cybersecurity-identity-whitepaper.md)**
-*   **[Navigating the Shadow AI Crisis](ai-governance-whitepaper.md)**
-*   **[The Hidden Costs of Software Bloat](whitepaper-outline.md)**
+*   **[The Death of the Perimeter](https://github.com/besquea12/technical-writing-portfolio/blob/main/cybesecurity-identity-whitepaper.md)**
+*   **[Navigating the Shadow AI Crisis](https://github.com/besquea12/technical-writing-portfolio/blob/main/ai-governance-whitepaper%20.md)**
+*   **[The Hidden Costs of Software Bloat](https://github.com/besquea12/technical-writing-portfolio/blob/main/software%20bloat-whitepaper%20.md)**
 
 ### 📖 Product Documentation (User Success)
-*   **[Slack Workflow Automation](slack-workflow-guide.md)**
-*   **[Notion Team Wiki Architecture](notion-wiki-guide.md)**
-*   **[Trello Butler Logic](trello-automation-guide.md)**
+*   **[Slack Workflow Automation](https://github.com/besquea12/technical-writing-portfolio/blob/main/slack-workflow-guide.md)**
+*   **[Notion Team Wiki Architecture](https://github.com/besquea12/technical-writing-portfolio/blob/main/notion-wiki-guide.md)**
+*   **[Trello Butler Logic](https://github.com/besquea12/technical-writing-portfolio/blob/main/trello-automation-guide.md)**
 
 ### ✍️ UX Writing (Product Experience)
-*   **[Login Error State Redesign](ux-writing-sample.md)**
+*   **[Login Error State Redesign](https://github.com/besquea12/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
 ---
 
 ## 🛠️ Specialized Skills
