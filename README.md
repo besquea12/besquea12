@@ -1,11 +1,16 @@
 markdown
-# Bryant Esquea | Freelance Technical Writer
+# Bryant Esquea | Technical Strategist
 **Strategic Documentation & High-Authority Whitepapers for the 2026 SaaS Ecosystem.**
 
 ---
 
 ## 🚀 The Value I Provide
-I help tech companies reduce churn and close enterprise deals by translating complex systems into clear, persuasive content. I specialize in **Docs-as-Code** (Markdown/Git) and **Strategic Research**.
+I help technical founders and enterprise marketing teams bridge the gap between complex engineering and market authority. By combining **Strategic Research** with **Docs-as-Code** (Markdown/Git) workflows, I deliver high-value assets that drive revenue and mitigate risk.
+
+*   **Accelerating Sales Cycles:** I develop authoritative whitepapers that serve as "silent salesmen," educating executive stakeholders and shortening the path to a closed deal.
+*   **Mitigating Regulatory Risk:** I map complex AI and security workflows to 2026 standards (EU AI Act, HIPAA, SOC 2), protecting organizations from the "Trust Tax" of non-compliance.
+*   **Optimizing Cloud ROI:** Through FinOps-focused documentation, I help firms visualize and reclaim wasted cloud spend, turning documentation into a cost-saving engine.
+*   **Improving Product Retention:** My human-centric UX writing reduces user friction, leading to higher adoption rates and lower support ticket volume.
 
 - 📫 **Contact:** [besquea12@gmail.com/https://www.linkedin.com/in/bryant-esquea-8a687939b/]
 - 🛠️ **Stack:** Markdown, GitHub, Notion, Trello, UX Writing.
