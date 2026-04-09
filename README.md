@@ -17,6 +17,10 @@ I help tech companies reduce churn and close enterprise deals by translating com
 
 markdown
 ### 📑 Strategic Whitepapers (B2B Authority)
+*   **[The GreenOps Mandate](https://github.com/besquea12/technical-writing-portfolio/blob/main/greens-sustainable-it-whitepaper.md)**
+*   **[The Privacy-Performance Paradox](https://github.com/besquea12/technical-writing-portfolio/blob/main/health%20tech-privacy-ai-whitepaper.md)**
+*   **[Beyond the Billing Dashbaord](https://github.com/besquea12/technical-writing-portfolio/blob/main/ai-native-finops-whitepaper.md)**
+
 *   **[The Death of the Perimeter](https://github.com/besquea12/technical-writing-portfolio/blob/main/cybesecurity-identity-whitepaper.md)**
 *   **[Navigating the Shadow AI Crisis](https://github.com/besquea12/technical-writing-portfolio/blob/main/ai-governance-whitepaper%20.md)**
 *   **[The Hidden Costs of Software Bloat](https://github.com/besquea12/technical-writing-portfolio/blob/main/software%20bloat-whitepaper%20.md)**
