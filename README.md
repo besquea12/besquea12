@@ -1,4 +1,3 @@
-markdown
 # Bryant Esquea | Technical Strategist
 **Strategic Documentation & High-Authority Whitepapers for the 2026 SaaS Ecosystem.**
 
@@ -20,7 +19,6 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 
 ## 📂 Featured Portfolio
 
-markdown
 ### 📑 Strategic Whitepapers (B2B Authority)
 *   **[The GreenOps Mandate](https://github.com/besquea12/technical-writing-portfolio/blob/main/greens-sustainable-it-whitepaper.md)**
 *   **[The Privacy-Performance Paradox](https://github.com/besquea12/technical-writing-portfolio/blob/main/health%20tech-privacy-ai-whitepaper.md)**
@@ -45,4 +43,12 @@ markdown
 - **Human-Centric UX:** Writing that speaks to users, not just at them.
 
 ---
-*Ready to scale your documentation? Let's talk.
+### Collaboration Workflow
+
+*  **For technical audits and white papers, I support the following:**
+
+- GitHub: Add GovernanceProse-Audits as a collaborator for direct Docs-as-Code auditing. 
+- Formats: Markdown (preferred), LaTeX, or secure cloud-shared documents.
+- Audit Delivery: Every delivery includes a Vale compliance report and GSC/Screaming Frog technical health data.
+---
+
