@@ -43,12 +43,12 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 - **Human-Centric UX:** Writing that speaks to users, not just at them.
 
 ---
-### Collaboration Workflow
+## Collaboration Workflow
 
 *  **For technical audits and white papers, I support the following:**
 
-- GitHub: Add GovernanceProse-Audits as a collaborator for direct Docs-as-Code auditing. 
-- Formats: Markdown (preferred), LaTeX, or secure cloud-shared documents.
-- Audit Delivery: Every delivery includes a Vale compliance report and GSC/Screaming Frog technical health data.
+- **GitHub:** Add GovernanceProse-Audits as a collaborator for direct Docs-as-Code auditing. 
+- **Formats:** Markdown (preferred), LaTeX, or secure cloud-shared documents.
+- **Audit Delivery:** Every delivery includes a Vale compliance report and GSC/Screaming Frog technical health data.
 ---
 
