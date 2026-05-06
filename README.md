@@ -11,7 +11,7 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 *   **Optimizing Cloud ROI:** Through FinOps-focused documentation, I help firms visualize and reclaim wasted cloud spend, turning documentation into a cost-saving engine.
 *   **Improving Product Retention:** My human-centric UX writing reduces user friction, leading to higher adoption rates and lower support ticket volume.
 
-- 📫 **Contact:** [besquea12@gmail.com/https://www.linkedin.com/in/bryant-esquea-8a687939b/]
+- 📫 **Contact:** [governanceprose.audits@gmail.com/https://www.linkedin.com/in/bryant-esquea-8a687939b/]
 - 🛠️ **Stack:**  Vale (Automated Linting), Markdown, GitHub, Notion, Trello.
 - 🎯 **Niches:** AI Governance, Cybersecurity, SaaS Efficiency.
 
@@ -34,7 +34,7 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 *   **[Trello Butler Logic](https://github.com/besquea12/technical-writing-portfolio/blob/main/trello-automation-guide.md)**
 
 ### ✍️ UX Writing (Product Experience)
-*   **[Login Error State Redesign](https://github.com/besquea12/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
+*   **[Login Error State Redesign](https://github.com/governanceprose.audits/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
 ---
 
 ## 🛠️ Specialized Skills
