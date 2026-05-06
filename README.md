@@ -33,8 +33,12 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 *   **[Notion Team Wiki Architecture](https://github.com/besquea12/technical-writing-portfolio/blob/main/notion-wiki-guide.md)**
 *   **[Trello Butler Logic](https://github.com/besquea12/technical-writing-portfolio/blob/main/trello-automation-guide.md)**
 
-### ✍️ UX Writing (Product Experience)
-*   **(https://github.com/governanceprose.audits/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
+### 🛠️ How I Audit: The Automated Governance Pipeline
+
+I treat documentation like code. Every project is passed through a 4-tier automated audit to eliminate "Trust Tax" and ensure 100% technical authority.
+*  **[Automated Linting (Vale)]: I use a customized Vale engine to instantly flag inconsistencies against Google, Microsoft, and my proprietary AgencyCompliance standards.**
+*  **[Regulatory Cross-Referencing]: Every asset is audited for alignment with 2026 mandates like the EU AI Act, HIPAA, and SOC 2, ensuring your documentation is a shield, not a liability.**
+*  **[Docs-as-Code Integration]: My workflow integrates directly into your GitHub/Git repositories, allowing for real-time version control and seamless collaboration with your engineering teams.**
 ---
 
 ## 🛠️ Specialized Skills
