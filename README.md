@@ -12,7 +12,7 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 *   **Improving Product Retention:** My human-centric UX writing reduces user friction, leading to higher adoption rates and lower support ticket volume.
 
 - 📫 **Contact:** [besquea12@gmail.com/https://www.linkedin.com/in/bryant-esquea-8a687939b/]
-- 🛠️ **Stack:** Markdown, GitHub, Notion, Trello, UX Writing.
+- 🛠️ **Stack:**  Vale (Automated Linting), Markdown, GitHub, Notion, Trello.
 - 🎯 **Niches:** AI Governance, Cybersecurity, SaaS Efficiency.
 
 ---
@@ -49,6 +49,6 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 
 - **GitHub:** Add GovernanceProse-Audits as a collaborator for direct Docs-as-Code auditing. 
 - **Formats:** Markdown (preferred), LaTeX, or secure cloud-shared documents.
-- **Audit Delivery:** Every delivery includes a Vale compliance report and GSC/Screaming Frog technical health data.
+- **Audit Delivery:** Every delivery includes a Proprietary Governance Audit. Using my custom-built Vale engine, I cross-reference your documentation against Google, Microsoft, and Agency-level compliance standards to eliminate stylistic drift and technical debt.
 ---
 
