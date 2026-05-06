@@ -34,7 +34,7 @@ I help technical founders and enterprise marketing teams bridge the gap between 
 *   **[Trello Butler Logic](https://github.com/besquea12/technical-writing-portfolio/blob/main/trello-automation-guide.md)**
 
 ### ✍️ UX Writing (Product Experience)
-*   **[Login Error State Redesign](https://github.com/governanceprose.audits/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
+*   **(https://github.com/governanceprose.audits/technical-writing-portfolio/blob/main/ux-writing-sample.md)**
 ---
 
 ## 🛠️ Specialized Skills
